@@ -1,0 +1,113 @@
+*{
+    /* border: 1px solid red;  */
+}
+
+body{
+    text-align: center;
+}
+
+#amaziklogo{
+    margin: 25px;
+}
+
+
+
+#create{
+    width: 60vw;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#continue{
+    
+    background-color: rgb(255, 208, 0);
+    padding-left: 95px;
+    padding-right: 95px;
+    font-size: smaller;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border: 1px solid gray;
+}
+
+hr{
+    color: lightgray;
+}
+
+
+#line{
+    color: lightgray;
+}
+
+footer li{
+    
+    display: inline;
+    margin: 10px;
+
+}
+
+
+footer a{
+    text-decoration: none;
+    color: rgb(82, 188, 209);
+    
+}
+
+footer{
+    font-size: smaller;
+    
+    
+}
+
+footer div{
+    margin-top: 20px;
+    
+}
+
+footer ul{
+    margin-top: 30px;
+}
+
+div a{
+    color: rgb(82, 188, 209);
+    text-decoration: none;
+    font-size: small;
+    text-align: left;
+}
+
+.main-articles li{
+    text-align: left;
+    padding-left: 20px;
+    text-decoration-style: none;
+    list-style-position: inside;
+    list-style-type:"-";
+    margin-bottom: 15px;
+    
+    
+}
+
+#main{
+    
+    padding-left: 150px;
+    padding-right: 150px;
+    border: 1px solid gray;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h1{
+    text-align: left;
+    padding-left: 20px;
+    
+}
+
+p{
+    color: gray;
+    text-align: left;
+    padding-left: 15px;
+    padding-bottom: none;
+}
+
+
